@@ -13,6 +13,6 @@
 ### 🏎️ Favorite Machines
 | Name | Engine | Power |
 | :--- | :--- | :--- |
-| **Skyline GT-R R33** | RB26DETT | 280ps |
+| **Skyline GT-R R34** | **RB26DETT (The Legend)** | **280ps+** |
 | **S2000** | F20C | 250ps |
-| **Supra JZA80** | 2JZ-GTE | 280ps |
+| **RX-7 FD3S** | 13B-REW | 280ps |
