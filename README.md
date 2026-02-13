@@ -1,16 +1,18 @@
-# Hi there, I'm Sora Shinozaki 👋
+## 🛠 Skills & Tools
+- **Language:** Python (3.9+) / SQL (MySQL)
+- **Frameworks:** mysql-connector-python
+- **Tools:** Visual Studio Code / Terminal / Git & GitHub
+- **Other:** Power Automate Desktop / Microsoft Excel
  
-### 🏎️ Automotive Enthusiast & Aspiring IT Engineer
-さいたまIT & WEB専門学校でITを学びつつ、大好きなスポーツカーをITの力でより身近に、より深く楽しむためのプロジェクトを展開しています。
+## 📊 My Focus
+- **Data Architecture:** 自動車のスペックを最適に管理するDB設計
+- **Automation:** Pythonを用いた業務効率化プログラムの作成
+- **Hard Work:** 10年以上のサッカー経験で得た「走り抜く力」
  
-- 🛠 **Current Project**: [My Passionate Car Database](https://github.com/sorashinozaki/my-dream-car-database) (MySQL & Python)
-- ⚽ **Strength**: サッカー歴10年以上の体力と、結婚式場でのバイトリーダーで培った責任感。
-- 🚗 **Dream**: ポルシェ、BMW、トヨタなどの自動車メーカーで、実験評価エンジニアとして技術を磨くこと。
- 
-### 🧰 Tech Stack
-- **Language**: Python
-- **Database**: MySQL
-- **Others**: Power Automate Desktop, VSC, MacOS
-
 ---
-*「一直線に、情熱を形にする。」*
+### 🏎️ Favorite Machines
+| Name | Engine | Power |
+| :--- | :--- | :--- |
+| **Skyline GT-R R33** | RB26DETT | 280ps |
+| **S2000** | F20C | 250ps |
+| **Supra JZA80** | 2JZ-GTE | 280ps |
