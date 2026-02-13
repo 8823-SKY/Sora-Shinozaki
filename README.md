@@ -13,7 +13,7 @@
 - **Others**: Power Automate Desktop, VSC, MacOS
 
 
-![Sora's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorashinozaki&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorashinozaki&layout=compact&theme=radical)
+![Sora's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sora Shinozaki&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sora Shinozaki&layout=compact&theme=radical)
 ---
 *「一直線に、情熱を形にする。」*
