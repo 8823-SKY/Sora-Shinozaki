@@ -12,8 +12,5 @@
 - **Database**: MySQL
 - **Others**: Power Automate Desktop, VSC, MacOS
 
-
-![8823-SKY's Stats](https://github-readme-stats.vercel.app/api?username=8823-SKY&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8823-SKY&layout=compact&theme=radical)
 ---
 *「一直線に、情熱を形にする。」*
